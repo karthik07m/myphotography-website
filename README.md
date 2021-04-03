@@ -1,2 +1,2 @@
-# myphotographer-website
- My photography web site 
+# Photographer Website
+ Developed using bootstrap 

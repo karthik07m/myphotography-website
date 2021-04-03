@@ -1,0 +1,54 @@
+<div id="works"  class=" clearfix grid"> 
+    <figure class="effect-oscar  wowload fadeIn">
+        <img src="images/mobile/c/1.jpg" alt="img01"/>
+        <figcaption>
+            <a href="images/mobile/c/1.jpg"  data-gallery></a>            
+        </figcaption>
+    </figure>
+	    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/mobile/c/2.jpg" alt="img01"/>
+        <figcaption>
+         
+            <a href="images/mobile/c/2.jpg"  data-gallery>View more</a>           
+        </figcaption>
+    </figure>
+     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/mobile/c/3.jpg" alt="img01"/>
+        <figcaption>
+         
+            <a href="images/mobile/c/3.jpg"  data-gallery>View more</a>           
+        </figcaption>
+    </figure>
+     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/mobile/c/4.jpg" alt="img01"/>
+        <figcaption>
+            <a href="images/mobile/c/4.jpg"  data-gallery>View more</a>          
+        </figcaption>
+    </figure>
+	     <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/mobile/c/5.jpg" alt="img01"/>
+        <figcaption>
+            <a href="images/mobile/c/5.jpg"  data-gallery>View more</a>          
+        </figcaption>
+    </figure>
+    <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/mobile/c/6.jpg" alt="img01"/>
+        <figcaption>
+            <a href="images/mobile/c/6.jpg"  data-gallery>View more</a>          
+        </figcaption>
+    </figure>
+	   <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/mobile/c/7.jpg" alt="img01"/>
+        <figcaption>
+            <a href="images/mobile/c/7.jpg"  data-gallery>View more</a>          
+        </figcaption>
+    </figure>
+
+	   <figure class="effect-oscar  wowload fadeInUp">
+        <img src="images/mobile/c/8.jpg" alt="img01"/>
+        <figcaption>
+            <a href="images/mobile/c/8.jpg"  data-gallery>View more</a>          
+        </figcaption>
+    </figure>
+
+
